@@ -1,0 +1,75 @@
+body{
+    background-color: cadetblue;
+}
+.container{
+    background-color: black;
+    width: 50%;
+    margin-left: 300px;
+}
+.header{
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+}
+.Add-btn{
+    color:white;
+    background-color: green;
+    border: none;
+    width: 60px;
+    padding: 7px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.add-input{
+    width: 500px;
+    padding: 5px;
+    margin-left: 10px;
+    
+
+}
+.list-heading{
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+}
+.act{
+    color:white;
+    width: fit-content;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: fit-content;
+    font-size: 20px;
+    margin-left:10px;
+    text-align: center;
+}
+.remove-btn{
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    float: right;
+    top: -30px;
+    right: 10px;
+    cursor: pointer;
+
+}
+.removeAll{
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    margin-top:10px;
+    cursor: pointer;
+}
+ 
+
+.border{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+}
